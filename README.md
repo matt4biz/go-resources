@@ -1,7 +1,7 @@
 Books
 =====
 
-<span>*The Go Programming Language,*</span> Donovan & Kernighan, Addison-Wesley, 2015,
+&#x1F34E; <span>*The Go Programming Language,*</span> Donovan & Kernighan, Addison-Wesley, 2015,
 [9780134190440](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440) (also look through the [Go release notes](https://golang.org/doc/devel/release.html) for changes)
 
 <span>*Get Programming with Go,*</span> Youngman & Peppe, Manning, 2018, [9781617293092](https://www.amazon.com/Get-Programming-Go-Nathan-Youngman/dp/1617293091)
@@ -59,7 +59,7 @@ Twitter
 Websites
 ========
 
-[ Go downloads, docs, blog, FAQ](https://golang.org)
+&#x1F34E; [Go downloads, docs, blog, FAQ](https://golang.org)
 
 [Go playground](https://play.golang.org/)
 
@@ -67,9 +67,9 @@ Websites
 
 [Why Go? — Key advantages you may have overlooked](https://yourbasic.org/golang/advantages-over-java-python)
 
-[ Ardan Labs blog](https://www.ardanlabs.com/blog/)
+&#x1F34E; [Ardan Labs blog](https://www.ardanlabs.com/blog/)
 
-[ Dave Cheney’s blog](https://dave.cheney.net/category/golang)
+&#x1F34E; [Dave Cheney’s blog](https://dave.cheney.net/category/golang)
 
 [Eli Bendersky’s blog](https://eli.thegreenplace.net/tag/go)
 
@@ -100,10 +100,10 @@ GopherCon
 [Death by 3,000 Timers](https://www.youtube.com/watch?v=h0s8CWpIKdg), [Dynamically Instrumenting Go Programs](https://www.youtube.com/watch?v=de9cVAx6REA) and [more](https://github.com/gophercon/2019-talks)
 
 2018  
-[Videos](https://tqdev.com/2018-gophercon-2018-videos-online) and [Summaries](https://about.sourcegraph.com/go/) as well as [ The scheduler saga](https://www.youtube.com/watch?v=YHRO5WQGh0k) and [Allocator wrestling](https://www.youtube.com/watch?v=M0HER1G5BRw)
+[Videos](https://tqdev.com/2018-gophercon-2018-videos-online) and [Summaries](https://about.sourcegraph.com/go/) as well as &#x1F34E; [The scheduler saga](https://www.youtube.com/watch?v=YHRO5WQGh0k) and [Allocator wrestling](https://www.youtube.com/watch?v=M0HER1G5BRw)
 
 2017  
-[2017 talks](https://github.com/gophercon/2017-talks) as well as [ Understanding channels](https://www.youtube.com/watch?v=KBZlN0izeiY) and [The Fallacies of distributed gomputing](https://www.youtube.com/watch?v=PXdao4VxQMQ)
+[2017 talks](https://github.com/gophercon/2017-talks) as well as &#x1F34E; [Understanding channels](https://www.youtube.com/watch?v=KBZlN0izeiY) and [The Fallacies of distributed gomputing](https://www.youtube.com/watch?v=PXdao4VxQMQ)
 
 2016  
 [2016 talks](https://github.com/gophercon/2016-talks) and [Go assembler](https://www.youtube.com/watch?v=KINIAgRpkDA&list=PL2ntRZ1ySWBdliXelGAItjzTMxy2WQh0P)
@@ -125,7 +125,7 @@ Articles
 
 [Less is exponentially more](https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html)
 
-Dave Cheney’s [Clear is better than clever](https://dave.cheney.net/paste/clear-is-better-than-clever.pdf) and [ Practical Go](https://dave.cheney.net/practical-go/presentations/qcon-china.html) [this is a must-read!] and [High Performance Go Workshop](https://dave.cheney.net/high-performance-go-workshop/gopherchina-2019.html) and [ The Zen of Go](https://dave.cheney.net/2020/02/23/the-zen-of-go.html)
+Dave Cheney’s [Clear is better than clever](https://dave.cheney.net/paste/clear-is-better-than-clever.pdf) and &#x1F34E; [Practical Go](https://dave.cheney.net/practical-go/presentations/qcon-china.html) [this is a must-read!] and [High Performance Go Workshop](https://dave.cheney.net/high-performance-go-workshop/gopherchina-2019.html) and &#x1F34E; [The Zen of Go](https://dave.cheney.net/2020/02/23/the-zen-of-go.html)
 
 [10 most-common mistakes](https://medium.com/@teivah/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65)
 
@@ -143,7 +143,7 @@ Dave Cheney’s [Clear is better than clever](https://dave.cheney.net/paste/clea
 
 [Go JSON Cookbook](https://eli.thegreenplace.net/2019/go-json-cookbook/)
 
-[ Fifty Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html)
+&#x1F34E; [Fifty Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html)
 
 [Java to Go in-depth tutorial](https://yourbasic.org/golang/go-java-tutorial/)
 
@@ -157,7 +157,7 @@ Dave Cheney’s [Clear is better than clever](https://dave.cheney.net/paste/clea
 
 [Building a Simple CLI Tool with Go](https://blog.rapid7.com/2016/08/04/build-a-simple-cli-tool-with-golang/)
 
-[ Writing and Optimizing Go code](https://github.com/dgryski/go-perfbook/blob/master/performance.md)
+&#x1F34E; [Writing and Optimizing Go code](https://github.com/dgryski/go-perfbook/blob/master/performance.md)
 
 [Profiling & Optimizing in Go](https://github.com/bradfitz/talk-yapc-asia-2015)
 
@@ -210,11 +210,11 @@ Be sure to search for stuff from Rob Pike, Robert Griesemer, Russ Cox, Francesc 
 
 [Go proverbs](https://www.youtube.com/watch?v=PAAkCSZUG1c)
 
-[ Understanding nil](https://www.youtube.com/watch?v=ynoY2xz-F8s)
+&#x1F34E; [Understanding nil](https://www.youtube.com/watch?v=ynoY2xz-F8s)
 
 [Twelve Go best practices](https://www.youtube.com/watch?v=8D3Vmm1BGoY)
 
-[ Concurrency patterns in Go](https://www.youtube.com/watch?v=YEKjSzIwAdA)
+&#x1F34E; [Concurrency patterns in Go](https://www.youtube.com/watch?v=YEKjSzIwAdA)
 
 [Origins of Go Concurrency style by Rob Pike - Emerging Languages Camp 2010](https://www.youtube.com/watch?v=3DtUzH3zoFo)
 
@@ -222,7 +222,7 @@ Be sure to search for stuff from Rob Pike, Robert Griesemer, Russ Cox, Francesc 
 
 [Concurrency made easy](https://www.youtube.com/watch?v=yKQOunhhf4A)
 
-[ Rethinking classical concurrency patterns](https://www.youtube.com/watch?v=5zXAHh5tJqQ)
+&#x1F34E; [Rethinking classical concurrency patterns](https://www.youtube.com/watch?v=5zXAHh5tJqQ)
 
 [Go and the Modern Enterprise - Peter Bourgon - London Go Gathering 2015](https://www.youtube.com/watch?v=iFR_7AKkJFU)
 
@@ -240,15 +240,15 @@ Be sure to search for stuff from Rob Pike, Robert Griesemer, Russ Cox, Francesc 
 
 [The Robustness of Go](https://www.youtube.com/watch?v=40d26ZGfhR8)
 
-[A Go Programmer’s Guide to Secure Connections (LondonGophers ’18)](https://www.youtube.com/watch?v=OF3TM-b890E) and [ (GopherCon ’18)](https://www.youtube.com/watch?v=kxKLYDLzuHA)
+[A Go Programmer’s Guide to Secure Connections (LondonGophers ’18)](https://www.youtube.com/watch?v=OF3TM-b890E) and &#x1F34E; [(GopherCon ’18)](https://www.youtube.com/watch?v=kxKLYDLzuHA)
 
 [Going Serverless (GopherCon ’18)](https://www.youtube.com/watch?v=U7glyWYj4qg)
 
 [Go’s realtime GC](https://www.youtube.com/watch?v=bMujSVMarqY)
 
-[ Containers from scratch](https://www.youtube.com/watch?v=_TsSmSu57Zo)
+&#x1F34E; [Containers from scratch](https://www.youtube.com/watch?v=_TsSmSu57Zo)
 
-[ Debuggers from scratch](https://youtu.be/ZrpkrMKYvqQ)
+&#x1F34E; [Debuggers from scratch](https://youtu.be/ZrpkrMKYvqQ)
 
 [The evolution of Go](https://www.youtube.com/watch?v=0ReKdcpNyQg)
 
@@ -270,7 +270,7 @@ Be sure to search for stuff from Rob Pike, Robert Griesemer, Russ Cox, Francesc 
 
 [Go as a scripting language in Linux](https://www.youtube.com/watch?v=fcyHqDwGchI)
 
-[ Channels as semaphores](https://www.dotconferences.com/2019/03/valentin-deleplace-semaphores)
+&#x1F34E; [Channels as semaphores](https://www.dotconferences.com/2019/03/valentin-deleplace-semaphores)
 
 [The monsters inside sync.Locker](https://www.dotconferences.com/2019/03/roberto-clapis-the-monsters-inside-the-sync-locker)
 
@@ -280,9 +280,9 @@ Be sure to search for stuff from Rob Pike, Robert Griesemer, Russ Cox, Francesc 
 
 [“go test -race” Under the Hood](https://www.youtube.com/watch?v=5erqWdlhQLA)
 
-[ GopherCon 2017 Kavya Joshi - Understanding Channels](https://www.youtube.com/watch?v=KBZlN0izeiY)
+&#x1F34E; [GopherCon 2017 Kavya Joshi - Understanding Channels](https://www.youtube.com/watch?v=KBZlN0izeiY)
 
-[ GopherCon 2018 Kavya Joshi - The Scheduler Saga](https://www.youtube.com/watch?v=YHRO5WQGh0k)
+&#x1F34E; [GopherCon 2018 Kavya Joshi - The Scheduler Saga](https://www.youtube.com/watch?v=YHRO5WQGh0k)
 
 [7 common mistakes in Go and when to avoid them by Steve Francia (Docker)](https://www.youtube.com/watch?v=29LLRKIL_TI)
 
@@ -322,11 +322,11 @@ Be sure to search for stuff from Rob Pike, Robert Griesemer, Russ Cox, Francesc 
 
 [Implementing a bignum calculator - Rob Pike - golang-syd November 2014](https://www.youtube.com/watch?v=PXoG0WX0r_E)
 
-[ GopherCon 2019: Jason Keene - Dynamically Instrumenting Go Programs](https://www.youtube.com/watch?v=de9cVAx6REA)
+&#x1F34E; [GopherCon 2019: Jason Keene - Dynamically Instrumenting Go Programs](https://www.youtube.com/watch?v=de9cVAx6REA)
 
-[ GopherCon 2019: Chris Hines - Death by 3,000 Timers: Streaming Video-on-Demand for Cable TV](https://www.youtube.com/watch?v=h0s8CWpIKdg)
+&#x1F34E; [GopherCon 2019: Chris Hines - Death by 3,000 Timers: Streaming Video-on-Demand for Cable TV](https://www.youtube.com/watch?v=h0s8CWpIKdg)
 
-[ GopherCon 2019: Eric Chiang - PKI for Gophers](https://www.youtube.com/watch?v=VwPQKS9Njv0)
+&#x1F34E; [GopherCon 2019: Eric Chiang - PKI for Gophers](https://www.youtube.com/watch?v=VwPQKS9Njv0)
 
 [GopherCon 2019: Denis Isaev - Go Linters: Myths and Best Practices](https://www.youtube.com/watch?v=1U-Gzz4TYP0)
 
@@ -336,7 +336,7 @@ Be sure to search for stuff from Rob Pike, Robert Griesemer, Russ Cox, Francesc 
 
 [GopherCon 2019: Daniel Marti - Optimizing Go Code Without a Blindfold](https://www.youtube.com/watch?v=oE_vm7KeV_E)
 
-[ GopherCon 2019: Mat Ryer - How I Write HTTP Web Services after Eight Years](https://www.youtube.com/watch?v=rWBSMsLG8po)
+&#x1F34E; [GopherCon 2019: Mat Ryer - How I Write HTTP Web Services after Eight Years](https://www.youtube.com/watch?v=rWBSMsLG8po)
 
 [GopherCon 2016: Filippo Valsorda - cgo Safely Taming the Beast](https://www.youtube.com/watch?v=lhMhApWQp2E)
 
@@ -376,7 +376,7 @@ Be sure to search for stuff from Rob Pike, Robert Griesemer, Russ Cox, Francesc 
 
 [dotGo 2016 - Robert Griesemer - Prototype your design!](https://www.youtube.com/watch?v=vLxX3yZmw5Q)
 
-[ dotGo 2017 - Bill Kennedy - Behavior Of Channels](https://www.youtube.com/watch?v=zDCKZn4-dck)
+&#x1F34E; [dotGo 2017 - Bill Kennedy - Behavior Of Channels](https://www.youtube.com/watch?v=zDCKZn4-dck)
 
 [dotGo 2016 - Kelsey Hightower - Self Deploying Go Applications](https://www.youtube.com/watch?v=nhmAyZNlECw)
 
@@ -384,7 +384,7 @@ Be sure to search for stuff from Rob Pike, Robert Griesemer, Russ Cox, Francesc 
 
 [Google I/O 2013 - Fireside Chat with the Go Team](https://www.youtube.com/watch?v=p9VUCp98ay4)
 
-[ dotGo 2017 - Mat Ryer - The Art of Testing](https://www.youtube.com/watch?v=EOpj9aZ8Kfo)
+&#x1F34E; [dotGo 2017 - Mat Ryer - The Art of Testing](https://www.youtube.com/watch?v=EOpj9aZ8Kfo)
 
 [Golang UK Conference 2017 - Mat Ryer - Writing Beautiful Packages in Go](https://www.youtube.com/watch?v=cAWlv2SeQus)
 
@@ -438,7 +438,7 @@ Be sure to search for stuff from Rob Pike, Robert Griesemer, Russ Cox, Francesc 
 
 [code::dive 2017 – William Kennedy – Go: Concurrency Design](https://www.youtube.com/watch?v=OrctYMf4btA)
 
-[ Go Programming Design Guildelines - Bill Kennedy](https://www.youtube.com/watch?v=Y8bMBGrB6zY)
+&#x1F34E; [Go Programming Design Guildelines - Bill Kennedy](https://www.youtube.com/watch?v=Y8bMBGrB6zY)
 
 [William Kennedy - Package Oriented Design](https://www.youtube.com/watch?v=spKM5CyBwJA)
 
@@ -464,11 +464,11 @@ Be sure to search for stuff from Rob Pike, Robert Griesemer, Russ Cox, Francesc 
 
 [GothamGo 2018 - Things in Go I Never Use by Mat Ryer](https://www.youtube.com/watch?v=5DVV36uqQ4E)
 
-[ GopherCon 2016: Dave Cheney - Don’t Just Check Errors Handle Them Gracefully](https://www.youtube.com/watch?v=lsBF58Q-DnY)
+&#x1F34E; [GopherCon 2016: Dave Cheney - Don’t Just Check Errors Handle Them Gracefully](https://www.youtube.com/watch?v=lsBF58Q-DnY)
 
 [Understanding Go Interfaces](https://www.youtube.com/watch?v=F4wUrj6pmSI)
 
-[ State of Go 2020: changes since Go 1.12](https://www.youtube.com/watch?v=0c-1KJwSMCw)
+&#x1F34E; [State of Go 2020: changes since Go 1.12](https://www.youtube.com/watch?v=0c-1KJwSMCw)
 
 [Go Tooling in Action (Francesc Campoy)](https://www.youtube.com/watch?v=uBjoTxosSys)
 
@@ -486,7 +486,7 @@ Be sure to search for stuff from Rob Pike, Robert Griesemer, Russ Cox, Francesc 
 
 [Jaana B Dogan - Tracing Go](https://www.youtube.com/watch?v=RLJWiYs90a8)
 
-[ GothamGo 2019 – “Pac Man from Scratch” by Daniela Petruzalek](https://www.youtube.com/watch?v=GH0DlCKTppE)
+&#x1F34E; [GothamGo 2019 – “Pac Man from Scratch” by Daniela Petruzalek](https://www.youtube.com/watch?v=GH0DlCKTppE)
 
 [Zurich Go Meetup: Go-Fuzz: Practical Fuzzing with Go (2019)](https://www.youtube.com/watch?v=3J9qbvOfklg)
 
@@ -504,7 +504,7 @@ Be sure to search for stuff from Rob Pike, Robert Griesemer, Russ Cox, Francesc 
 
 [How to optimize Go for really high performance - by Björn Rabenstein (2016)](https://www.youtube.com/watch?v=ZuQcbqYK0BY)
 
-[ Profiling & Optimizing in Go / Brad Fitzpatrick](https://www.youtube.com/watch?v=xxDZuPEgbBU)
+&#x1F34E; [Profiling & Optimizing in Go / Brad Fitzpatrick](https://www.youtube.com/watch?v=xxDZuPEgbBU)
 
 [GothamGo 2015: “go get -news” (Using Go and Python NLTK for news analysis) by JP Robinson](https://www.youtube.com/watch?v=vj81DYrpv_E)
 
@@ -519,7 +519,7 @@ Microservices & Cloud
 
 [Go + Microservices = Go Kit [I] - Peter Bourgon, Go Kit](https://www.youtube.com/watch?v=NX0sHF8ZZgw)
 
-[ [DevFest Nantes 2017] The great SOA migration - Charles-Axel Dein](https://www.youtube.com/watch?v=O25xbCq_LFU) (also [slides](http://www.dein.fr/2017-10-19-the-great-microservices-migration.html))
+&#x1F34E; [[DevFest Nantes 2017] The great SOA migration - Charles-Axel Dein](https://www.youtube.com/watch?v=O25xbCq_LFU) (also [slides](http://www.dein.fr/2017-10-19-the-great-microservices-migration.html))
 
 [Building Microservices with Go](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_) (collection)
 
@@ -531,9 +531,9 @@ Microservices & Cloud
 
 [GOTO 2018 - Insecure Transit - Microservice - Sam Newman](https://www.youtube.com/watch?v=1sjqHlLuRw8)
 
-[ How NOT to Measure Latency - Gil Tene - StrangeLoop 2015](https://www.youtube.com/watch?v=lJ8ydIuPFeU)
+&#x1F34E; [How NOT to Measure Latency - Gil Tene - StrangeLoop 2015](https://www.youtube.com/watch?v=lJ8ydIuPFeU)
 
-[ How I Learned to Stop Worrying and Love Misery - Gil Tene - Jfokus 2019](https://www.youtube.com/watch?v=_fiV3JUXylM)
+&#x1F34E; [How I Learned to Stop Worrying and Love Misery - Gil Tene - Jfokus 2019](https://www.youtube.com/watch?v=_fiV3JUXylM)
 
 [Rip It Up And Start Again? - Sam Newman - NDC 2020](https://www.youtube.com/watch?v=0Y-Pjr0abWQ)
 
@@ -559,7 +559,7 @@ Microservices & Cloud
 
 [Best Practices for (Go) gRPC Services](https://www.youtube.com/watch?v=Z_yD7YPL2oE)
 
-[ 10 tips for failing badly at microservices](https://www.youtube.com/watch?v=X0tjziAQfNQ)
+&#x1F34E; [10 tips for failing badly at microservices](https://www.youtube.com/watch?v=X0tjziAQfNQ)
 
 [Istio and Kubernetes - Kelsey Hightower](https://www.youtube.com/watch?v=s4qasWn_mFc)
 
@@ -583,7 +583,7 @@ Microservices & Cloud
 
 [Authentication and Security in gRPC Microservices - Jan Tattermusch, Google](https://www.youtube.com/watch?v=_y-lzjdVEf0)
 
-[ The Seven Deadly Sins of Microservices by Daniel Bryant](https://www.youtube.com/watch?v=Jw6TYEb1Opw)
+&#x1F34E; [The Seven Deadly Sins of Microservices by Daniel Bryant](https://www.youtube.com/watch?v=Jw6TYEb1Opw)
 
 [GOTO 2017 The Seven (More) Deadly Sins of Microservices Daniel Bryant](https://www.youtube.com/watch?v=NP189MPfR7Q)
 
@@ -599,7 +599,7 @@ Microservices & Cloud
 
 [Microservices in the Cloud with Kubernetes and Istio (Google IO 18)](https://www.youtube.com/watch?v=gauOI0O9fRM)
 
-[ Avoiding Microservice Megadisasters - Jimmy Bogard](https://www.youtube.com/watch?v=gfh-VCTwMw8)
+&#x1F34E; [Avoiding Microservice Megadisasters - Jimmy Bogard](https://www.youtube.com/watch?v=gfh-VCTwMw8)
 
 [Liz Rice — Practical steps for securing your container deployment](https://www.youtube.com/watch?v=WSiCZ6v35gw)
 
@@ -629,7 +629,7 @@ Microservices & Cloud
 
 [GOTO 2016 - From Monolith to Microservices at Zalando - Rodrigue Schaefer](https://www.youtube.com/watch?v=gEeHZwjwehs)
 
-[ An Introduction to GCP for Students](https://www.youtube.com/watch?v=JtUIQz_EkUw)
+&#x1F34E; [An Introduction to GCP for Students](https://www.youtube.com/watch?v=JtUIQz_EkUw)
 
 [Lyft’s Envoy: From Monolith to Service Mesh - Matt Klein, Lyft](https://www.youtube.com/watch?v=RVZX4CwKhGE)
 
@@ -676,7 +676,7 @@ Web Programming
 
 [Implementing JWT based authentication in Golang](https://www.sohamkamani.com/blog/golang/2019-01-01-jwt-authentication/)
 
-[ Writing Web Applications](https://golang.org/doc/articles/wiki/)
+&#x1F34E; [Writing Web Applications](https://golang.org/doc/articles/wiki/)
 
 [Serving HTML with Go](https://meshstudio.io/blog/2017-11-06-serving-html-with-golang/)
 
@@ -713,7 +713,7 @@ Database
 
 [Design patterns in Go’s database/sql package](https://eli.thegreenplace.net/2019/design-patterns-in-gos-databasesql-package/)
 
-[ To ORM or not to ORM](https://eli.thegreenplace.net/2019/to-orm-or-not-to-orm/)
+&#x1F34E; [To ORM or not to ORM](https://eli.thegreenplace.net/2019/to-orm-or-not-to-orm/)
 
 [Practical Persistence in Go](https://www.alexedwards.net/blog/organising-database-access)
 
@@ -730,7 +730,7 @@ Database
 Mechanical Sympathy
 ===================
 
-[ Mechanical Sympathy](https://mechanical-sympathy.blogspot.com/)
+&#x1F34E; [Mechanical Sympathy](https://mechanical-sympathy.blogspot.com/)
 
 [Mythbusting Modern Hardware to Gain Mechanical Sympathy](https://www.youtube.com/watch?v=MC1EKLQ2Wmg) (video)
 
@@ -749,7 +749,7 @@ Smart People
 
 [GOTO 2018 - Don’t Walk Away from Complexity, Run - Venkat Subramaniam](https://www.youtube.com/watch?v=4MEKu2TcEHM)
 
-[ Beauty in Code 2018, 4 of 7 - Kevlin Henney “1968”](https://www.youtube.com/watch?v=KjgvffBlWAg)
+&#x1F34E; [Beauty in Code 2018, 4 of 7 - Kevlin Henney “1968”](https://www.youtube.com/watch?v=KjgvffBlWAg)
 
 [PHPNW09 Keynote: Kevlin Henney - The Uncertainty Principle](https://www.youtube.com/watch?v=XiTrthi8_Yo)
 
@@ -765,7 +765,7 @@ Smart People
 
 [Kevlin Henney - Object? You Keep Using that Word - Trojmiasto JUG (2016)](https://www.youtube.com/watch?v=IA-RyzKE7oc)
 
-[ GOTO 2013 - Worse Is Better, for Better or for Worse - Kevlin Henney](https://www.youtube.com/watch?v=w3JkpQAbTA4)
+&#x1F34E; [GOTO 2013 - Worse Is Better, for Better or for Worse - Kevlin Henney](https://www.youtube.com/watch?v=w3JkpQAbTA4)
 
 [Kevlin Henney - Patterns for the People](https://www.youtube.com/watch?v=15523Wm4_ws)
 
@@ -785,7 +785,7 @@ Smart People
 
 [GOTO 2018 - Old Is the New New - Kevlin Henney](https://www.youtube.com/watch?v=AbgsfeGvg3E)
 
-[ GOTO 2016 - Small Is Beautiful - Kevlin Henney](https://www.youtube.com/watch?v=B3b4tremI5o)
+&#x1F34E; [GOTO 2016 - Small Is Beautiful - Kevlin Henney](https://www.youtube.com/watch?v=B3b4tremI5o)
 
 [Programming with GUTs by Kevlin Henney](https://www.youtube.com/watch?v=azoucC_fwzw)
 
@@ -809,9 +809,9 @@ Smart People
 
 [GOTO 2015 - Agile is Dead - Pragmatic Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
 
-[ Simple Made Easy 2012 - Rich Hickey](https://www.youtube.com/watch?v=oytL881p-nQ)
+&#x1F34E; [Simple Made Easy 2012 - Rich Hickey](https://www.youtube.com/watch?v=oytL881p-nQ)
 
-[ Hynek Schlawack - Solid Snakes or How to Take 5 Weeks of Vacation - PyCon 2017](https://www.youtube.com/watch?v=YVuqeXyvOUc)
+&#x1F34E; [Hynek Schlawack - Solid Snakes or How to Take 5 Weeks of Vacation - PyCon 2017](https://www.youtube.com/watch?v=YVuqeXyvOUc)
 
 [Hynek Schlawack - How to Write Deployment-friendly Applications - PyCon 2018](https://www.youtube.com/watch?v=wuCpCkrfeMs)
 
@@ -819,7 +819,7 @@ Smart People
 
 [Hynek Schlawack - Get Instrumented: How Prometheus Can Unify Your Metrics - PyCon 2016](https://www.youtube.com/watch?v=b-qLOY5ChnQ)
 
-[ GOTO 2016 - Software that Fits in Your Head - Dan North](https://www.youtube.com/watch?v=4Y0tOi7QWqM)
+&#x1F34E; [GOTO 2016 - Software that Fits in Your Head - Dan North](https://www.youtube.com/watch?v=4Y0tOi7QWqM)
 
 [Beauty in Code 2019, 6 of 6 — Dan North: “BDD Is Not About Testing”](https://www.youtube.com/watch?v=6nSwRSbc27g)
 
@@ -833,7 +833,7 @@ Smart People
 
 [Beyond Features - Dan North](https://www.youtube.com/watch?v=lz5HBtDl-1A)
 
-[ John Ousterhout: “A Philosophy of Software Design” - Talks at Google](https://www.youtube.com/watch?v=bmSAYlu0NcY)
+&#x1F34E; [John Ousterhout: “A Philosophy of Software Design” - Talks at Google](https://www.youtube.com/watch?v=bmSAYlu0NcY)
 
 [Creating Great Programmers with a Software Design Studio - John Ousterhout (Stanford)](https://www.youtube.com/watch?v=ajFq31OV9Bk)
 
@@ -850,7 +850,7 @@ Unix etc.
 
 [GOTO 2013 - Power Use of UNIX - Dan North](https://www.youtube.com/watch?v=7uwW20odwEk)
 
-[ \#1 The UNIX Philosophy](https://www.youtube.com/watch?v=aY7OzGPaP5I)
+&#x1F34E; [\#1 The UNIX Philosophy](https://www.youtube.com/watch?v=aY7OzGPaP5I)
 
 [\#2 The UNIX Philosophy - Technical Debt and Capital](https://www.youtube.com/watch?v=jkVEjR_mdMk)
 
@@ -887,13 +887,13 @@ Mighty Video Miscellany
 
 [Stop Writing Classes - Jack Diederich (Python)](https://www.youtube.com/watch?v=o9pEzgHorH0)
 
-[ Inheritance Is The Base Class of Evil](https://www.youtube.com/watch?v=bIhUE5uUFOA)
+&#x1F34E; [Inheritance Is The Base Class of Evil](https://www.youtube.com/watch?v=bIhUE5uUFOA)
 
 [The Art of Writing Software](https://www.youtube.com/watch?v=QdVFvsCWXrA)
 
 [GOTO 2017 - Engineering You - Martin Thompson](https://www.youtube.com/watch?v=S4LzzuMTqjs)
 
-[ GOTO 2018 - Making It Count Quality is NOT an Option - Todd Montgomery](https://www.youtube.com/watch?v=LTZdmb5-8n8)
+&#x1F34E; [GOTO 2018 - Making It Count Quality is NOT an Option - Todd Montgomery](https://www.youtube.com/watch?v=LTZdmb5-8n8)
 
 [GOTO 2019 - Modern Continuous Delivery - Ken Mugrage](https://www.youtube.com/watch?v=w008iz_UwDk)
 
@@ -909,11 +909,11 @@ Mighty Video Miscellany
 
 [GOTO 2018 - The Development Metrics You Should Use (but Don’t) - Catherine Swetel](https://www.youtube.com/watch?v=cW3yM-K2M08)
 
-[ GOTO 2017 - It’s Not Continuous Delivery If You Can’t Deploy Right Now - Ken Mugrage](https://www.youtube.com/watch?v=po712VIZZ7M)
+&#x1F34E; [GOTO 2017 - It’s Not Continuous Delivery If You Can’t Deploy Right Now - Ken Mugrage](https://www.youtube.com/watch?v=po712VIZZ7M)
 
 [CppCon 2018: Chandler Carruth “Spectre: Secrets, Side-Channels, Sandboxes, and Security”](https://www.youtube.com/watch?v=_f7O3IfIR2k)
 
-[ GOTO 2019 - Lies, Damned Lies, and Metrics - Roy Osherove](https://www.youtube.com/watch?v=goihWvyqRow)
+&#x1F34E; [GOTO 2019 - Lies, Damned Lies, and Metrics - Roy Osherove](https://www.youtube.com/watch?v=goihWvyqRow)
 
 [GOTO 2015 - DDD & Microservices: At Last, Some Boundaries! - Eric Evans](https://www.youtube.com/watch?v=yPvef9R3k-M)
 
