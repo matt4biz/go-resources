@@ -226,6 +226,8 @@ Be sure to search for stuff from Rob Pike, Robert Griesemer, Russ Cox, Francesc 
 
 [Go and the Modern Enterprise - Peter Bourgon - London Go Gathering 2015](https://www.youtube.com/watch?v=iFR_7AKkJFU)
 
+&#x1F34E; [GoRemoteFest 2020 (recorded live stream)](https://www.youtube.com/watch?v=OZSJ2fwSSUM); [more info here](https://www.goremotefest.com)
+
 [dotGo 2015 - Rob Pike - Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM)
 
 [Twelve Go Best Practices - Francesc Campoy](https://www.youtube.com/watch?v=8D3Vmm1BGoY)
