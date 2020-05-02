@@ -63,6 +63,8 @@ Websites
 
 [Go playground](https://play.golang.org/)
 
+[Go by Example](https://gobyexample.com/)
+
 [Why Go?](https://dave.cheney.net/2017/03/20/why-go)
 
 [Why Go? — Key advantages you may have overlooked](https://yourbasic.org/golang/advantages-over-java-python)
@@ -92,6 +94,12 @@ Websites
 [Go for Python Programmers](https://golang-for-python-programmers.readthedocs.io/en/latest/)
 
 [Network Programming with Go](https://tumregels.github.io/Network-Programming-with-Go/)
+
+&#x1F34E; [Medium articles by Vincent Blanchon](https://medium.com/@blanchon.vincent) (also [A Journey with Go](https://medium.com/a-journey-with-go))
+
+[Medium articles by Jaana Dogan](https://medium.com/@rakyll) (also her older blog [jbd.dev](https://jbd.dev))
+
+[Awesome Go](https://awesome-go.com)
 
 GopherCon
 =========
@@ -201,6 +209,32 @@ Dave Cheney’s [Clear is better than clever](https://dave.cheney.net/paste/clea
 
 [Go-Restructure: Sane regular expressions with struct fields](https://github.com/alexflint/go-restructure)
 
+[Go: What Does a Goroutine Switch Actually Involve?](https://medium.com/a-journey-with-go/go-what-does-a-goroutine-switch-actually-involve-394c202dddb7)
+
+[Go: Asynchronous Preemption](https://medium.com/a-journey-with-go/go-asynchronous-preemption-b5194227371c)
+
+[Managing Groups of Goroutines in Go](https://medium.com/swlh/managing-groups-of-gorutines-in-go-ee7523e3eaca)
+
+[Introduction to Concurrency in Go: Gopher Farm](https://medium.com/@olena_stoliarova/introduction-to-concurrency-in-go-gopher-farm-3aa23f253420)
+
+[A Closer Look at Go’s sync Package](https://medium.com/@teivah/a-closer-look-at-go-sync-package-9f4e4a28c35a)
+
+[Go: Vet Command Is More Powerful Than You Think](https://medium.com/a-journey-with-go/go-vet-command-is-more-powerful-than-you-think-563e9fdec2f5)
+
+[Custom struct field tags and validate in Golang](https://medium.com/swlh/custom-struct-field-tags-and-validation-in-golang-9a7aeedcdc5b)
+
+[Go: Discovery of the Trace Package](https://medium.com/a-journey-with-go/go-discovery-of-the-trace-package-e5a821743c3c)
+
+[Why You Should Be Using errgroup.WithContext() in Your Golang Server Handlers](https://bionic.fullstory.com/why-you-should-be-using-errgroup-withcontext-in-golang-server-handlers)
+
+[Continuous Profiling of Go programs](https://medium.com/google-cloud/continuous-profiling-of-go-programs-96d4416af77b)
+
+&#x1F34E; [Generics in Go – How They Work and How to Play With Them](https://blog.tempus-ex.com/generics-in-go-how-they-work-and-how-to-play-with-them/)
+
+[5 Gotchas of Defer in Go — Part I](https://blog.learngoprogramming.com/gotchas-of-defer-in-go-1-8d070894cb01), [Part II](https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-ii-cc550f6ad9aa), and [Part III](https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-iii-36a1ab3d6ef1)
+
+[SRE: Debugging: Simple Memory Leaks in Go](https://medium.com/dm03514-tech-blog/sre-debugging-simple-memory-leaks-in-go-e0a9e6d63d4d)
+
 Videos
 ======
 
@@ -227,6 +261,8 @@ Be sure to search for stuff from Rob Pike, Robert Griesemer, Russ Cox, Francesc 
 [Go and the Modern Enterprise - Peter Bourgon - London Go Gathering 2015](https://www.youtube.com/watch?v=iFR_7AKkJFU)
 
 &#x1F34E; [GoRemoteFest 2020 (recorded live stream)](https://www.youtube.com/watch?v=OZSJ2fwSSUM); [more info here](https://www.goremotefest.com)
+
+&#x1F34E; [Gopher Guides](https://www.gopherguides.com/videos)
 
 [dotGo 2015 - Rob Pike - Simplicity is Complicated](https://www.youtube.com/watch?v=rFejpH_tAHM)
 
@@ -525,6 +561,8 @@ Microservices & Cloud
 
 [Building Microservices with Go](https://www.youtube.com/playlist?list=PLmD8u-IFdreyh6EUfevBcbiuCKzFk0EW_) (collection)
 
+&#x1F34E; [The Twelve-Factor App](https://12factor.net)
+
 [Principles Of Microservices by Sam Newman - Devoxx 2015](https://www.youtube.com/watch?v=PFQnNFe27kU)
 
 [Security and Microservices by Sam Newman - Devoxx 2016](https://www.youtube.com/watch?v=ZXGaC3GR3zU)
@@ -706,6 +744,8 @@ Web Programming
 
 [Niall Merrigan - Defensive Programming 101 v5: Common Security Mistakes in Web Applications](https://www.youtube.com/watch?v=mzO6IJi6S4E)
 
+[An OAuth 2.0 introduction for beginners](https://itnext.io/an-oauth-2-0-introduction-for-beginners-6e386b19f7a9)
+
 Database
 ========
 
@@ -728,6 +768,12 @@ Database
 [AWS re:Invent 2019: Data modeling with Amazon DynamoDB](https://www.youtube.com/watch?v=DIQVJqiSUkE)
 
 [Chris Date talks about “The Problem of Missing Information” at OUG Harmony 2012 in Finland](https://www.youtube.com/watch?v=kU-MXf2TsPE)
+
+&#x1F34E; [Things I Wished More Developers Knew About Databases](https://medium.com/@rakyll/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
+
+[GraphQL with Golang: A Deep Dive From Basics To Advanced](https://www.freecodecamp.org/news/deep-dive-into-graphql-with-golang-d3e02a429ac3/)
+
+[Building an API with GraphQL and Go](https://medium.com/@bradford_hamilton/building-an-api-with-graphql-and-go-9350df5c9356)
 
 Mechanical Sympathy
 ===================
@@ -846,6 +892,10 @@ Smart People
 [Computer Science - Brian Kernighan on successful language design](https://www.youtube.com/watch?v=Sg4U4r_AgJU)
 
 [Elements of Programming Style - Brian Kernighan](https://www.youtube.com/watch?v=8SUkrR7ZfTA)
+
+&#x1F34E; [7 Skills of Highly "Effective" Programmers](https://medium.com/better-programming/7-habits-of-highly-effective-programmers-563ee3b63f33)
+
+&#x1F602; [Top Signs of an Over-Experienced Programmer](https://medium.com/better-programming/top-signs-of-an-over-experienced-programmer-22bbe0b57663)
 
 Unix etc.
 =========
