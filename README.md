@@ -101,6 +101,11 @@ Websites
 
 [Awesome Go](https://awesome-go.com)
 
+[Medium articles by Teiva Harsanyi](https://medium.com/@teivah)
+
+[Eli Bendersky's website](https://eli.thegreenplace.net)
+
+
 GopherCon
 =========
 
@@ -234,6 +239,12 @@ Dave Cheney’s [Clear is better than clever](https://dave.cheney.net/paste/clea
 [5 Gotchas of Defer in Go — Part I](https://blog.learngoprogramming.com/gotchas-of-defer-in-go-1-8d070894cb01), [Part II](https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-ii-cc550f6ad9aa), and [Part III](https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-iii-36a1ab3d6ef1)
 
 [SRE: Debugging: Simple Memory Leaks in Go](https://medium.com/dm03514-tech-blog/sre-debugging-simple-memory-leaks-in-go-e0a9e6d63d4d)
+
+[Doing Well by Doing Bad: Writing Bad Code with Go Part 1](https://medium.com/capital-one-tech/doing-well-by-doing-bad-writing-bad-code-with-go-part-1-2dbb96ce079a) and [Part 2](https://medium.com/capital-one-tech/doing-well-by-doing-bad-writing-bad-code-with-go-part-2-e270d305c9f7)
+
+[How I Build Robust, Scalable Go Applications](https://medium.com/better-programming/how-i-build-robust-scalable-go-applications-192a0df32d1)
+
+[How I write my unit tests in Go quickly](https://dev.to/ilyakaznacheev/how-i-write-my-unit-tests-in-go-quickly-4bd5?utm_source=dormosheio&utm_campaign=dormosheio)
 
 Videos
 ======
@@ -746,6 +757,11 @@ Web Programming
 
 [An OAuth 2.0 introduction for beginners](https://itnext.io/an-oauth-2-0-introduction-for-beginners-6e386b19f7a9)
 
+[Creating a Middleware in Golang for JWT based Authentication](https://hackernoon.com/creating-a-middleware-in-golang-for-jwt-based-authentication-cx3f32z8)
+
+[Building full-stack web apps with Go, Vecty, and WebAssembly](https://blog.logrocket.com/building-full-stack-web-apps-with-go-vecty-and-webassembly/)
+
+
 Database
 ========
 
@@ -823,7 +839,7 @@ Smart People
 
 [Software Art Thou: Kevlin Henney - What Do You Mean](https://www.youtube.com/watch?v=5cafjDPPtJ0)
 
-[DCSUG - Game of Sprints by Kevlin Henney](https://www.youtube.com/watch?v=ebaKAnu0hiU)
+[DCSUG - Game of Sprints by Kevlin Henney](https://www.youtube.com/watch?v=ebaKAnu0hiU) and [slides](https://www.slideshare.net/Kevlin/game-of-sprints)
 
 [The Forgotten Art of Structured Programming - Kevlin Henney [C++ on Sea 2019]](https://www.youtube.com/watch?v=SFv8Wm2HdNM)
 
@@ -854,6 +870,14 @@ Smart People
 [Procedural Programming: It’s Back? It Never Went Away - Kevlin Henney [ACCU 2018]](https://www.youtube.com/watch?v=mrY6xrWp3Gs)
 
 [Thinking Outside the Synchronisation Quadrant - Kevlin Henney](https://www.youtube.com/watch?v=2yXtZ8x7TXw)
+
+[Refactoring to Immutability - Kevlin Henney](https://www.youtube.com/watch?v=APUCMSPiNh4)
+
+[Individuals and Interactions over Processes and Tools by Kevlin Henney](https://www.youtube.com/watch?v=Y8abxaIEXTw)
+
+[Cognitive Biases and Effects You Should Know About (slides)](https://www.slideshare.net/Kevlin/cognitive-biases-and-effects-you-should-know-about)
+
+[Turning Development Outside-In (slides)](https://www.slideshare.net/Kevlin/turning-development-outsidein)
 
 [GOTO 2015 - Agile is Dead - Pragmatic Dave Thomas](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
 
@@ -893,9 +917,20 @@ Smart People
 
 [Elements of Programming Style - Brian Kernighan](https://www.youtube.com/watch?v=8SUkrR7ZfTA)
 
+[Marianne Bellotti - We Killed These Things With Fire | Øredev 2019](https://www.youtube.com/watch?v=XoEfV0kXXDY)
+
+[Øredev 2016 - Jimmy Bogard - SOLID Architecture in Slices not Layers](https://www.youtube.com/watch?v=wTd-VcJCs_M)
+
 &#x1F34E; [7 Skills of Highly "Effective" Programmers](https://medium.com/better-programming/7-habits-of-highly-effective-programmers-563ee3b63f33)
 
 &#x1F602; [Top Signs of an Over-Experienced Programmer](https://medium.com/better-programming/top-signs-of-an-over-experienced-programmer-22bbe0b57663)
+
+[9 Things Every Developer Should Do](https://medium.com/better-programming/9-things-every-developer-should-do-f1aebd395b98)
+
+[5 Developer Environment Hacks to Increase Productivity](https://medium.com/better-programming/5-developer-environment-hacks-to-increase-productivity-2ade84555ab3)
+
+[66 Lessons from 50 Years of Software Experience](https://medium.com/swlh/62-lessons-from-50-years-of-software-experience-2db0f400f706)
+
 
 Unix etc.
 =========
