@@ -19,6 +19,10 @@ Books
 <span>*Concurrency in Go,*</span> Cox-Buday, O’Reilly, 2017, [9781491941195](https://www.amazon.com/Programming-Language-Addison-Wesley-Professional-Computing/dp/0134190440)
 (advanced material)
 
+<span>*Powerful Command-Line Applications in Go,*</span> Gerardi, Pragmatic Bookshelf, 2020 [forthcoming], [9781680506969](https://pragprog.com/book/rggo/powerful-command-line-applications-in-go)
+
+<span>*Distributed Services with Go,*</span> Jeffery, Pragmatic Bookshelf, 2020 [forthcoming], [9781680507607](https://pragprog.com/book/tjgo/distributed-services-with-go)
+
 <span>*Writing an Interpreter in Go,*</span> Ball, 2018, [9783982016115](https://www.amazon.com/Writing-Interpreter-Go-Thorsten-Ball/dp/3982016118)
 
 <span>*Writing a Compiler in Go,*</span> Ball, 2018, [9783982016108](https://www.amazon.com/Writing-Compiler-Go-Thorsten-Ball/dp/398201610X)
@@ -102,8 +106,6 @@ Websites
 [Awesome Go](https://awesome-go.com)
 
 [Medium articles by Teiva Harsanyi](https://medium.com/@teivah)
-
-[Eli Bendersky's website](https://eli.thegreenplace.net)
 
 
 GopherCon
