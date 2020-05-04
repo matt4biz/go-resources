@@ -813,6 +813,8 @@ Mechanical Sympathy
 Smart People
 ============
 
+&#x1F34E; [The One Programming Language to Rule Them All](https://medium.com/better-programming/the-one-programming-language-to-rule-them-all-620366df2805)
+
 [GOTO 2018 - Don’t Walk Away from Complexity, Run - Venkat Subramaniam](https://www.youtube.com/watch?v=4MEKu2TcEHM)
 
 &#x1F34E; [Beauty in Code 2018, 4 of 7 - Kevlin Henney “1968”](https://www.youtube.com/watch?v=KjgvffBlWAg)
