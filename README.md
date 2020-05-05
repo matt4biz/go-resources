@@ -248,6 +248,10 @@ Dave Cheney’s [Clear is better than clever](https://dave.cheney.net/paste/clea
 
 [How I write my unit tests in Go quickly](https://dev.to/ilyakaznacheev/how-i-write-my-unit-tests-in-go-quickly-4bd5?utm_source=dormosheio&utm_campaign=dormosheio)
 
+[Unit Testing for REST APIs in Go](https://codeburst.io/unit-testing-for-rest-apis-in-go-86c70dada52d)
+
+[Go Things I Love: Methods On Any Type](https://medium.com/swlh/go-things-i-love-methods-on-any-type-8aee0c3bc03d)
+
 Videos
 ======
 
@@ -719,6 +723,12 @@ Microservices & Cloud
 Cloud Yeti Terraform tutorials: [Provision EC2 on AWS with Terraform](https://www.youtube.com/watch?v=RA1mNClGYJ4), [Terraform Remote State on Amazon S3](https://www.youtube.com/watch?v=rUPSyAG4C1g), [Multiple terraform configuration (.tf ) files](https://www.youtube.com/watch?v=YCC68iW-lKA)
 
 Another Terraform tutorial: [1: AWS demo: create VPC & subnet](https://www.youtube.com/watch?v=IxA1IPypzHs), [2: Terraform variables, data sources, loops](https://www.youtube.com/watch?v=9ck6LaBy-W8), [3: Terraform map and lookup function](https://www.youtube.com/watch?v=5-EvptsWl8M)
+
+[Tutorial : Getting Started with Kubernetes with Docker on Mac](https://rominirani.com/tutorial-getting-started-with-kubernetes-with-docker-on-mac-7f58467203fd)
+
+[How to Use Own Local Docker Images With Minikube](https://medium.com/bb-tutorials-and-thoughts/how-to-use-own-local-doker-images-with-minikube-2c1ed0b0968)
+
+[Local Kubernetes for Linux — MiniKube vs MicroK8s](https://medium.com/containers-101/local-kubernetes-for-linux-minikube-vs-microk8s-1b2acad068d3)
 
 Web Programming
 ===============
