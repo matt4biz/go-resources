@@ -37,6 +37,7 @@ Books
 
 <span>*Advent of Go Microservices,*</span> Petric, 2020, [(leanpub)](https://leanpub.com/go-microservices)
 
+
 Twitter
 =======
 
@@ -59,6 +60,7 @@ Twitter
 [@lizrice](https://twitter.com/peterbourgon) (Liz Rice)
 
 [@peterbourgon](https://twitter.com/peterbourgon) (Peter Bourgon)
+
 
 Websites
 ========
@@ -129,6 +131,7 @@ GopherCon
 2014  
 [2014 talks](https://github.com/gophercon/2014-talks)
 
+
 Articles
 ========
 
@@ -145,6 +148,8 @@ Dave Cheney’s [Clear is better than clever](https://dave.cheney.net/paste/clea
 [10 most-common mistakes](https://medium.com/@teivah/the-top-10-most-common-mistakes-ive-seen-in-go-projects-4b79d4f6cd65)
 
 [Profiling Go programs](https://blog.golang.org/profiling-go-programs)
+
+[Continuous Profiling of Go programs](https://medium.com/google-cloud/continuous-profiling-of-go-programs-96d4416af77b)
 
 [Garbage Collection In Go : Part I](https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html), [Part II](https://www.ardanlabs.com/blog/2019/05/garbage-collection-in-go-part2-gctraces.html) and [Part III](https://www.ardanlabs.com/blog/2019/07/garbage-collection-in-go-part3-gcpacing.html)
 
@@ -234,8 +239,6 @@ Dave Cheney’s [Clear is better than clever](https://dave.cheney.net/paste/clea
 
 [Why You Should Be Using errgroup.WithContext() in Your Golang Server Handlers](https://bionic.fullstory.com/why-you-should-be-using-errgroup-withcontext-in-golang-server-handlers)
 
-[Continuous Profiling of Go programs](https://medium.com/google-cloud/continuous-profiling-of-go-programs-96d4416af77b)
-
 &#x1F34E; [Generics in Go – How They Work and How to Play With Them](https://blog.tempus-ex.com/generics-in-go-how-they-work-and-how-to-play-with-them/)
 
 [5 Gotchas of Defer in Go — Part I](https://blog.learngoprogramming.com/gotchas-of-defer-in-go-1-8d070894cb01), [Part II](https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-ii-cc550f6ad9aa), and [Part III](https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-iii-36a1ab3d6ef1)
@@ -251,6 +254,15 @@ Dave Cheney’s [Clear is better than clever](https://dave.cheney.net/paste/clea
 [Unit Testing for REST APIs in Go](https://codeburst.io/unit-testing-for-rest-apis-in-go-86c70dada52d)
 
 [Go Things I Love: Methods On Any Type](https://medium.com/swlh/go-things-i-love-methods-on-any-type-8aee0c3bc03d)
+
+[Go: Samples Collection with pprof](https://medium.com/a-journey-with-go/go-samples-collection-with-pprof-2a63c3e8a142)
+
+[How I investigated memory leaks in Go using pprof on a large codebase](https://medium.com/free-code-camp/how-i-investigated-memory-leaks-in-go-using-pprof-on-a-large-codebase-4bec4325e192)
+
+[Golang: Debugging memory leaks using pprof](https://dev.to/davidsbond/golang-debugging-memory-leaks-using-pprof-5di8)
+
+[Cloud Functions in Go](https://medium.com/yakka/cloud-functions-in-go-94c1014a6fe4)
+
 
 Videos
 ======
@@ -569,6 +581,7 @@ Be sure to search for stuff from Rob Pike, Robert Griesemer, Russ Cox, Francesc 
 
 [Go: code that grows with grace - Andrew Gerrand - Øredev Conference 2012](https://vimeo.com/53221560)
 
+
 Microservices & Cloud
 =====================
 
@@ -730,6 +743,11 @@ Another Terraform tutorial: [1: AWS demo: create VPC & subnet](https://www.youtu
 
 [Local Kubernetes for Linux — MiniKube vs MicroK8s](https://medium.com/containers-101/local-kubernetes-for-linux-minikube-vs-microk8s-1b2acad068d3)
 
+[Deploy a Full-Stack Go and React App on Kubernetes](https://medium.com/better-programming/deploy-a-full-stack-go-and-react-app-on-kubernetes-4f31cdd9a48b)
+
+[Setting up GitHub Package Registry with Docker and Golang](https://towardsdatascience.com/setting-up-github-package-registry-with-docker-and-golang-7a75a2533139)
+
+
 Web Programming
 ===============
 
@@ -759,11 +777,11 @@ Web Programming
 
 [GraphQL with Golang](https://www.freecodecamp.org/news/deep-dive-into-graphql-with-golang-d3e02a429ac3/)
 
+[GraphQL: A query language for your API](https://graphql.org)
+
+&#x1F34E; [Creating an Opinionated Go GQL Server — Part 1](https://medium.com/better-programming/creating-an-opinionated-gql-server-part1-8fad071e525f), [Part 2](https://medium.com/better-programming/creating-an-opinionated-go-gql-server-part-2-f049e4a9afe1), [Part 3](https://medium.com/better-programming/creating-an-opinionated-go-gql-server-part-3-ca9f71980131), and [Part 4](https://medium.com/better-programming/creating-an-opinionated-go-gql-server-part-4-e9d9a7bb442a)
+
 [Full Stack GoLang Tutorial with PostgreSQL](https://www.linkedin.com/pulse/full-stack-golang-tutorial-postgresql-andrey-okhotnikov/)
-
-[Gorilla web toolkit](http://www.gorillatoolkit.org) (software)
-
-[Nosurf](https://github.com/justinas/nosurf) (software)
 
 [Niall Merrigan - Defensive Programming 101 v5: Common Security Mistakes in Web Applications](https://www.youtube.com/watch?v=mzO6IJi6S4E)
 
@@ -772,6 +790,8 @@ Web Programming
 [Creating a Middleware in Golang for JWT based Authentication](https://hackernoon.com/creating-a-middleware-in-golang-for-jwt-based-authentication-cx3f32z8)
 
 [Building full-stack web apps with Go, Vecty, and WebAssembly](https://blog.logrocket.com/building-full-stack-web-apps-with-go-vecty-and-webassembly/)
+
+[8 Essential Web Apps for Developers](https://medium.com/better-programming/8-essential-web-apps-for-developers-463ee6f4bd5a)
 
 
 Database
@@ -803,6 +823,7 @@ Database
 
 [Building an API with GraphQL and Go](https://medium.com/@bradford_hamilton/building-an-api-with-graphql-and-go-9350df5c9356)
 
+
 Mechanical Sympathy
 ===================
 
@@ -819,6 +840,7 @@ Mechanical Sympathy
 [A Tutorial Introduction to the ARM and POWER Relaxed Memory Models](https://www.cl.cam.ac.uk/~pes20/ppc-supplemental/test7.pdf)
 
 [ARM Architecture Reference Manual](https://www.cs.utexas.edu/~simon/378/resources/ARMv7-AR_TRM.pdf)
+
 
 Smart People
 ============
@@ -945,6 +967,16 @@ Smart People
 
 [66 Lessons from 50 Years of Software Experience](https://medium.com/swlh/62-lessons-from-50-years-of-software-experience-2db0f400f706)
 
+[10 Things Every Developer Should Learn](https://medium.com/better-programming/10-things-every-developer-should-learn-72697ed5d94a) [but microservices make "phoenixing" your code much easier]
+
+[21 Bad Mistakes in My 21-Year Programming Career](https://levelup.gitconnected.com/21-bad-mistakes-in-my-21-year-programming-career-6d25c5b34908)
+
+[How to think like a programmer — lessons in problem solving](https://medium.com/free-code-camp/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
+
+[Code Review Best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f)
+
+[Don’t Use Boolean Arguments, Use Enums](https://medium.com/better-programming/dont-use-boolean-arguments-use-enums-c7cd7ab1876a)
+
 
 Unix etc.
 =========
@@ -978,6 +1010,7 @@ Unix etc.
 [vim + tmux - OMG!Code](https://www.youtube.com/watch?v=5r6yzFEXajQ)
 
 [NebraskaJS - Nick Nisi - Rules to Git By](https://www.youtube.com/watch?v=aHKn59spc6M)
+
 
 Mighty Video Miscellany
 =======================
@@ -1020,6 +1053,7 @@ Mighty Video Miscellany
 
 [Data Structures Easy to Advanced Course - Full Tutorial from a Google Engineer](https://www.youtube.com/watch?v=RBSGKlAvoiM)
 
+
 Uber
 ====
 
@@ -1038,6 +1072,7 @@ Uber
 [Taking Storage for a Ride with Uber](https://www.youtube.com/watch?v=Dg76cNaeB4s)
 
 [How Uber Uses Your Phone as a Backup Data Center](https://www.youtube.com/watch?v=0EhTOKcwRok)
+
 
 Some Books on Cloud Development
 ===============================
@@ -1089,6 +1124,7 @@ Some Books on Cloud Development
 [gRPC: Up and Running](https://www.amazon.com/gRPC-Running-Building-Applications-Kubernetes/dp/1492058335)
 
 [Istio: Up and Running](https://www.amazon.com/Istio-Running-Service-Connect-Control/dp/1492043788)
+
 
 A Few Other Books
 =================
@@ -1144,3 +1180,29 @@ A Few Other Books
 [How Software Works](https://www.amazon.com/How-Software-Works-Encryption-Technologies/dp/1593276664)
 
 [The TCP/IP Guide](https://www.amazon.com/TCP-Guide-Comprehensive-Illustrated-Protocols/dp/159327047X)
+
+
+Tools
+=====
+
+[Visual Studio Code on macOS](https://code.visualstudio.com/docs/setup/mac)
+
+[Go in Visual Studio Code](https://code.visualstudio.com/docs/languages/go)
+
+[Continuous Delivery with Drone CI](https://medium.com/@sergey.kolodyazhnyy/continuous-delivery-with-drone-ci-3a3fea5aa83)
+
+[Drone docs](https://docs.drone.io/)
+
+[The Google Cloud Developer's Cheat Sheet](https://github.com/gregsramblings/google-cloud-4-words)
+
+[Google Cloud Client Libraries for Go](https://github.com/googleapis/google-cloud-go)
+
+[octo-cli: A command line client covering almost all of GitHub's restful APIs](https://github.com/octo-cli/octo-cli)
+
+[Gorilla web toolkit](http://www.gorillatoolkit.org)
+
+[Nosurf](https://github.com/justinas/nosurf)
+
+[Reshaping JSON with jq](https://programminghistorian.org/en/lessons/json-and-jq)
+
+[jq](https://stedolan.github.io/jq) (install with Homebrew)
