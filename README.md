@@ -87,9 +87,7 @@ Websites
 
 [Some Liz Rice articles](https://medium.com/@lizrice)
 
-[Golang Weekly (sign up for email)](https://golangweekly.com)
-
-[The Go Gazette (ditto)](http://www.go-gazette.com)
+[Golang Weekly](https://golangweekly.com) (sign up for email)
 
 [Blog list](https://github.com/golang/go/wiki/Blogs)
 
@@ -262,6 +260,8 @@ Dave Cheney’s [Clear is better than clever](https://dave.cheney.net/paste/clea
 [Golang: Debugging memory leaks using pprof](https://dev.to/davidsbond/golang-debugging-memory-leaks-using-pprof-5di8)
 
 [Cloud Functions in Go](https://medium.com/yakka/cloud-functions-in-go-94c1014a6fe4)
+
+[Go race detection](https://medium.com/krakensystems-blog/golang-race-detection-51a1fea43931)
 
 
 Videos
@@ -747,6 +747,8 @@ Another Terraform tutorial: [1: AWS demo: create VPC & subnet](https://www.youtu
 
 [Setting up GitHub Package Registry with Docker and Golang](https://towardsdatascience.com/setting-up-github-package-registry-with-docker-and-golang-7a75a2533139)
 
+[Pragmatic tracing](https://medium.com/krakensystems-blog/pragmatic-tracing-b752d2f4dbdc)
+
 
 Web Programming
 ===============
@@ -1205,4 +1207,4 @@ Tools
 
 [Reshaping JSON with jq](https://programminghistorian.org/en/lessons/json-and-jq)
 
-[jq](https://stedolan.github.io/jq) (install with Homebrew)
+[jq](https://stedolan.github.io/jq) (install with Homebrew) and the [jq playground](https://jqplay.org/)
