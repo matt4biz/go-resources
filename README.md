@@ -107,6 +107,8 @@ Websites
 
 [Medium articles by Teiva Harsanyi](https://medium.com/@teivah)
 
+[The Learn Go Programming blog on Medium](https://blog.learngoprogramming.com) starting with [Why Go?](https://blog.learngoprogramming.com/about-go-language-an-overview-f0bee143597c)
+
 
 GopherCon
 =========
@@ -580,6 +582,10 @@ Be sure to search for stuff from Rob Pike, Robert Griesemer, Russ Cox, Francesc 
 [Go: a simple programming environment - Andrew Gerrand - Øredev Conference 2012](https://vimeo.com/53221558)
 
 [Go: code that grows with grace - Andrew Gerrand - Øredev Conference 2012](https://vimeo.com/53221560)
+
+[Jetbrains GoLand videos](https://www.youtube.com/playlist?list=PLQ176FUIyIUaXlyMXddbZ7TOdW2Yns4yV) (howtos, new features, etc.)
+
+[GoLand tips & tricks - code::dive 2018](https://www.youtube.com/watch?v=YlaoxV-Zw_w)
 
 
 Microservices & Cloud
