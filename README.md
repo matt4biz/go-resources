@@ -239,6 +239,8 @@ Dave Cheney’s [Clear is better than clever](https://dave.cheney.net/paste/clea
 
 [Why You Should Be Using errgroup.WithContext() in Your Golang Server Handlers](https://bionic.fullstory.com/why-you-should-be-using-errgroup-withcontext-in-golang-server-handlers)
 
+[Context keys in Go](https://medium.com/@matryer/context-keys-in-go-5312346a868d) (dealing with the golint error "should not use basic type string as key in context.WithValue")
+
 &#x1F34E; [Generics in Go – How They Work and How to Play With Them](https://blog.tempus-ex.com/generics-in-go-how-they-work-and-how-to-play-with-them/)
 
 [5 Gotchas of Defer in Go — Part I](https://blog.learngoprogramming.com/gotchas-of-defer-in-go-1-8d070894cb01), [Part II](https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-ii-cc550f6ad9aa), and [Part III](https://blog.learngoprogramming.com/5-gotchas-of-defer-in-go-golang-part-iii-36a1ab3d6ef1)
