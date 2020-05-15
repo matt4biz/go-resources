@@ -89,9 +89,7 @@ Websites
 
 [Some Liz Rice articles](https://medium.com/@lizrice)
 
-[Golang Weekly (sign up for email)](https://golangweekly.com)
-
-[The Go Gazette (ditto)](http://www.go-gazette.com)
+[Golang Weekly](https://golangweekly.com) (sign up for email)
 
 [Blog list](https://github.com/golang/go/wiki/Blogs)
 
@@ -110,6 +108,8 @@ Websites
 [Awesome Go](https://awesome-go.com)
 
 [Medium articles by Teiva Harsanyi](https://medium.com/@teivah)
+
+[The Learn Go Programming blog on Medium](https://blog.learngoprogramming.com) starting with [Why Go?](https://blog.learngoprogramming.com/about-go-language-an-overview-f0bee143597c)
 
 
 GopherCon
@@ -272,6 +272,8 @@ Dave Cheney’s [Clear is better than clever](https://dave.cheney.net/paste/clea
 [Cloud Functions in Go](https://medium.com/yakka/cloud-functions-in-go-94c1014a6fe4)
 
 [A Simple Implementation of Filtering Logic in Go](https://medium.com/@zach_johnson/a-simple-implementation-of-filtering-logic-in-go-f45a24413aaf)
+
+[Go race detection](https://medium.com/krakensystems-blog/golang-race-detection-51a1fea43931)
 
 
 Videos
@@ -591,6 +593,10 @@ Be sure to search for stuff from Rob Pike, Robert Griesemer, Russ Cox, Francesc 
 
 [Go: code that grows with grace - Andrew Gerrand - Øredev Conference 2012](https://vimeo.com/53221560)
 
+[Jetbrains GoLand videos](https://www.youtube.com/playlist?list=PLQ176FUIyIUaXlyMXddbZ7TOdW2Yns4yV) (howtos, new features, etc.)
+
+[GoLand tips & tricks - code::dive 2018](https://www.youtube.com/watch?v=YlaoxV-Zw_w)
+
 
 Microservices & Cloud
 =====================
@@ -756,6 +762,8 @@ Another Terraform tutorial: [1: AWS demo: create VPC & subnet](https://www.youtu
 [Deploy a Full-Stack Go and React App on Kubernetes](https://medium.com/better-programming/deploy-a-full-stack-go-and-react-app-on-kubernetes-4f31cdd9a48b)
 
 [Setting up GitHub Package Registry with Docker and Golang](https://towardsdatascience.com/setting-up-github-package-registry-with-docker-and-golang-7a75a2533139)
+
+[Pragmatic tracing](https://medium.com/krakensystems-blog/pragmatic-tracing-b752d2f4dbdc)
 
 
 Web Programming
@@ -1215,4 +1223,4 @@ Tools
 
 [Reshaping JSON with jq](https://programminghistorian.org/en/lessons/json-and-jq)
 
-[jq](https://stedolan.github.io/jq) (install with Homebrew)
+[jq](https://stedolan.github.io/jq) (install with Homebrew) and the [jq playground](https://jqplay.org/)
