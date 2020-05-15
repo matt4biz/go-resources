@@ -57,7 +57,7 @@ Twitter
 
 [@davecheney](https://twitter.com/davecheney) (Dave Cheney)
 
-[@lizrice](https://twitter.com/peterbourgon) (Liz Rice)
+[@lizrice](https://twitter.com/lizrice) (Liz Rice)
 
 [@peterbourgon](https://twitter.com/peterbourgon) (Peter Bourgon)
 
@@ -70,6 +70,8 @@ Websites
 [Go playground](https://play.golang.org/)
 
 [Go by Example](https://gobyexample.com/)
+
+[Effective Go](https://golang.org/doc/effective_go.html) and [Google Go code review comments](https://github.com/golang/go/wiki/CodeReviewComments) (background to golint)
 
 [Why Go?](https://dave.cheney.net/2017/03/20/why-go)
 
@@ -155,8 +157,6 @@ Dave Cheney’s [Clear is better than clever](https://dave.cheney.net/paste/clea
 
 [Modules Part 01: Why And What](https://www.ardanlabs.com/blog/2019/10/modules-01-why-and-what.html) and [Part 02](https://www.ardanlabs.com/blog/2019/12/modules-02-projects-dependencies-gopls.html), [Part 03](https://www.ardanlabs.com/blog/2019/12/modules-03-minimal-version-selection.html) and [Part 04](https://www.ardanlabs.com/blog/2020/02/modules-04-mirros-checksums-athens.html)
 
-[Google Go code review comments](https://github.com/golang/go/wiki/CodeReviewComments)
-
 [Go is on a Trajectory to Become the Next Enterprise Programming Language](https://hackernoon.com/go-is-on-a-trajectory-to-become-the-next-enterprise-programming-language-3b75d70544e)
 
 [Go hits the concurrency nail right on the head](https://eli.thegreenplace.net/2018/go-hits-the-concurrency-nail-right-on-the-head/)
@@ -174,6 +174,12 @@ Dave Cheney’s [Clear is better than clever](https://dave.cheney.net/paste/clea
 [Go for Cloud](https://rakyll.org/go-cloud/)
 
 [Go: Best Practices for Production Environments](https://peter.bourgon.org/go-in-production/) (also this [post](https://peter.bourgon.org/go-in-production/))
+
+[Go best practices, six years in](https://peter.bourgon.org/go-best-practices-2016)
+
+[Go app template build environment](https://github.com/thockin/go-build-template)
+
+[Style guideline for Go packages](https://rakyll.org/style-packages/)
 
 [Building a Simple CLI Tool with Go](https://blog.rapid7.com/2016/08/04/build-a-simple-cli-tool-with-golang/)
 
@@ -264,6 +270,8 @@ Dave Cheney’s [Clear is better than clever](https://dave.cheney.net/paste/clea
 [Golang: Debugging memory leaks using pprof](https://dev.to/davidsbond/golang-debugging-memory-leaks-using-pprof-5di8)
 
 [Cloud Functions in Go](https://medium.com/yakka/cloud-functions-in-go-94c1014a6fe4)
+
+[A Simple Implementation of Filtering Logic in Go](https://medium.com/@zach_johnson/a-simple-implementation-of-filtering-logic-in-go-f45a24413aaf)
 
 [Go race detection](https://medium.com/krakensystems-blog/golang-race-detection-51a1fea43931)
 
@@ -979,13 +987,13 @@ Smart People
 
 [10 Things Every Developer Should Learn](https://medium.com/better-programming/10-things-every-developer-should-learn-72697ed5d94a) [but microservices make "phoenixing" your code much easier]
 
-[21 Bad Mistakes in My 21-Year Programming Career](https://levelup.gitconnected.com/21-bad-mistakes-in-my-21-year-programming-career-6d25c5b34908)
-
 [How to think like a programmer — lessons in problem solving](https://medium.com/free-code-camp/how-to-think-like-a-programmer-lessons-in-problem-solving-d1d8bf1de7d2)
 
 [Code Review Best Practices](https://medium.com/palantir/code-review-best-practices-19e02780015f)
 
 [Don’t Use Boolean Arguments, Use Enums](https://medium.com/better-programming/dont-use-boolean-arguments-use-enums-c7cd7ab1876a)
+
+[How to Write Log Files That Save You Hours of Time](https://medium.com/better-programming/how-to-write-log-files-that-save-you-hours-of-time-1ff0cd9ae2ed)
 
 
 Unix etc.
