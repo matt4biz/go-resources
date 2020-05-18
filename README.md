@@ -109,6 +109,8 @@ Websites
 
 [Medium articles by Teiva Harsanyi](https://medium.com/@teivah)
 
+&#x1F34E; [Medium articles by Uday Hiwarale](https://medium.com/@thatisuday)
+
 [The Learn Go Programming blog on Medium](https://blog.learngoprogramming.com) starting with [Why Go?](https://blog.learngoprogramming.com/about-go-language-an-overview-f0bee143597c)
 
 
@@ -274,6 +276,16 @@ Dave Cheney’s [Clear is better than clever](https://dave.cheney.net/paste/clea
 [A Simple Implementation of Filtering Logic in Go](https://medium.com/@zach_johnson/a-simple-implementation-of-filtering-logic-in-go-f45a24413aaf)
 
 [Go race detection](https://medium.com/krakensystems-blog/golang-race-detection-51a1fea43931)
+
+[How to handle errors in Go?](https://web3.coach/golang-how-to-handle-errors-five-rules)
+
+[Very basic concurrency for beginners in Go](https://medium.com/@matryer/very-basic-concurrency-for-beginners-in-go-663e63c6ba07)
+
+&#x1F34E; [Rate Limiting in Go](https://medium.com/@justin.graber/rate-limiting-in-golang-f3ed2c62df36)
+
+[Unit Testing made easy in Go](https://medium.com/rungo/unit-testing-made-easy-in-go-25077669318)
+
+[Understanding the context package](https://medium.com/rungo/understanding-the-context-package-b2e407a9cdae)
 
 
 Videos
@@ -994,6 +1006,12 @@ Smart People
 [Don’t Use Boolean Arguments, Use Enums](https://medium.com/better-programming/dont-use-boolean-arguments-use-enums-c7cd7ab1876a)
 
 [How to Write Log Files That Save You Hours of Time](https://medium.com/better-programming/how-to-write-log-files-that-save-you-hours-of-time-1ff0cd9ae2ed)
+
+&#x1F34E; [How one code review rule turned my team into a dream team](https://medium.com/inside-league/how-one-code-review-rule-turned-my-team-into-a-dream-team-fdb172799d11)
+
+&#x1F34E; [Don’t Fix the Bug, Fix the System](https://medium.com/inside-league/dont-fix-the-bug-fix-the-system-3e239afee6d2)
+
+[(C)Lean Code](https://medium.com/swlh/c-lean-code-db84f8e312d4)
 
 
 Unix etc.
