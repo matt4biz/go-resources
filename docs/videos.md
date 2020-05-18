@@ -1,4 +1,4 @@
-#Videos
+# Videos
 
 - [GopherCon](#gophercon)
 - [GopherCon Singapore](#gophercon-singapore)
@@ -11,7 +11,7 @@
 - [Tutorials](#tutorials)
 
 
-### Gophercon
+## Gophercon
 
 #### 2019
 
@@ -125,7 +125,7 @@
 [Writing High Performance Databases in Go - Ben Johnson - GopherCon 2014](https://www.youtube.com/watch?v=4xB46Xl9O9Q)
 
 
-### GopherCon Singapore
+## GopherCon Singapore
 
 [Clear is better than clever - Dave Cheney - GopherCon SG 2019](https://www.youtube.com/watch?v=WkzGQ-Sm_50)
 
@@ -136,7 +136,7 @@
 [Understanding Allocations: the Stack and the Heap - Jacob Walker - GopherCon SG 2019](https://www.youtube.com/watch?v=ZMZpH4yT7M0)
 
 
-### GopherCon UK
+## GopherCon UK
 
 &#x1F34E; [Debuggers from scratch - Liz Rice - GopherCon UK 2018](https://youtu.be/ZrpkrMKYvqQ)
 
@@ -145,7 +145,7 @@
 [Lost in Transaction? - Bernd Rücker - GopherCon UK 2019](https://www.youtube.com/watch?v=iQnbYMmDct4)
 
 
-### Golang UK
+## Golang UK
 
 [A Beginners Guide to Context - Paul Crawford - Golang UK 2016](https://www.youtube.com/watch?v=r4Mlm6qEWRs)
 
@@ -170,7 +170,7 @@
 [Writing Beautiful Packages in Go - Mat Ryer - Golang UK 2017](https://www.youtube.com/watch?v=cmkKxNN7cs4)
 
 
-### dotGo
+## dotGo
 
 [A look at the criticism of Go - John Cinnamond - dotGo 2016](https://www.youtube.com/watch?v=gHCtEjzZ-rY)
 
@@ -209,7 +209,7 @@
 [Things I learned teaching Go - Francesc Campoy - dotGo 2014](https://www.youtube.com/watch?v=B-r3Wf_I2Lk)
 
 
-### GothamGo
+## GothamGo
 
 [Building a Multiplayer New York Times Crossword - JP Robinson - GothamGo 2017](https://www.youtube.com/watch?v=8mLmyK-n5JQ)
 
@@ -224,7 +224,7 @@
 [Things in Go I Never Use - Mat Ryer - GothamGo 2018](https://www.youtube.com/watch?v=5DVV36uqQ4E)
 
 
-### Other conferences
+## Other conferences
 
 [A Go Programmer's Guide to Secure Connections - Liz Rice - LondonGophers 2018](https://www.youtube.com/watch?v=OF3TM-b890E)
 
@@ -281,7 +281,7 @@
 [You Want To Build a Web Service? - Bill Kennedy - GoLab 2019](https://www.youtube.com/watch?v=IV0wrVb31Pg)
 
 
-### Freestanding talks
+## Freestanding talks
 
 [7 common mistakes in Go and when to avoid them - Steve Francia](https://www.youtube.com/watch?v=29LLRKIL_TI)
 
@@ -316,7 +316,7 @@
 [Twelve Go best practices - Francesc Campoy - 2013](https://www.youtube.com/watch?v=8D3Vmm1BGoY)
 
 
-### Tutorial series
+## Tutorial series
 
 [GoLand tips & tricks - Florin Pățan - code::dive 2018](https://www.youtube.com/watch?v=YlaoxV-Zw_w)
 
