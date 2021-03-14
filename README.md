@@ -1,14 +1,12 @@
 # Go resources
 
-This is a list of books, articles, videos, and other resources about learning Go along with some related topics.
+This is a list of books, articles, videos, and other resources about learning Go along with some related topics. The apple &#x1F34E; marks items of particular note.
 
 You can find **my online Go class** at this [playlist](https://www.youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6); subscribe to the channel for updates!
 
 Although a few tools or frameworks are mentioned, this site is particularly oriented towards tutorials or articles to improve one's knowledge of Go or software development, particularly development for the cloud.
 
-If you're looking for links to software, [Awesome Go](https://github.com/avelino/awesome-go/) is a site primarily oriented toward Go projects with some information on conventions and tutorials also.
-
-The apple &#x1F34E; marks items of particular note.
+If you're looking for links to software, [Awesome Go](https://github.com/avelino/awesome-go/) is a site primarily oriented toward Go projects with some information on conventions and tutorials also. Also, see [this repo](https://github.com/tmrts/go-patterns) for Go patterns, recipes, and idioms.
 
 
 ## Contents
