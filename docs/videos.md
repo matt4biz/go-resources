@@ -13,6 +13,46 @@
 
 ## Gophercon
 
+#### 2020
+
+&#x1F34E; [Typing [Generic] Go - Robert Griesemer - GopherCon 2020](https://www.youtube.com/watch?v=TborQFPY2IM)
+
+&#x1F34E; [Go is Boring... And That's Fantastic! - Jon Bodner - GopherCon 2020](https://www.youtube.com/watch?v=4hxKEbWO5u0)
+
+&#x1F34E; [Evolving the Go Memory Manager's RAM and CPU - Michael Knyszek - GopherCon 2020](https://www.youtube.com/watch?v=S_1YfTfuWmo)
+
+&#x1F34E; [A Journey to Postgres Productivity with Go - Johan Brandhorst-Satzkorn - GopherCon 2020](https://www.youtube.com/watch?v=AgHdVPSty7k)
+
+[How I Write HTTP Web Services after Eight Years - Mat Ryer - GopherCon 2020](https://www.youtube.com/watch?v=rWBSMsLG8po)
+
+[Ask Me Anything with the Go Team - GopherCon 2020](https://www.youtube.com/watch?v=BNHwHLNLjLs)
+
+[Go is Not Just on Your Server, it's in Your Browser - Brad Peabody - GopherCon 2020](https://www.youtube.com/watch?v=JIsUb1t6un0)
+
+[Implementing Faster Defers - Dan Scales - GopherCon 2020](https://www.youtube.com/watch?v=DHVeUsrKcbM)
+
+[The Fundamentals of OpenTelemetry - Ted Young - GopherCon 2020](https://www.youtube.com/watch?v=X8w4yCmAMos)
+
+[Write Once, Use Many: A Handy Package to Call Internal HTTP APIs - Michael Richman - GopherCon 2020](https://www.youtube.com/watch?v=mpcaJux74Qs)
+
+[Reordering 59 Million NYT Publishing Assets Using Go and BadgerDB - Doug Donohoe - GopherCon2020](https://www.youtube.com/watch?v=lsZy9G8n06A)
+
+[Common Patterns for Bounds Check Elimination - Agniva De Sarker - GopherCon 2020](https://www.youtube.com/watch?v=5toTS6kSWHA)
+
+[Pardon the Interruption: Loop Preemption in Go 1.14 - Austin Clements - GopherCon 2020](https://www.youtube.com/watch?v=1I1WmeSjRSw)
+
+[The Quest for the Fastest Deployment Time - L Körbes - GopherCon 2020](https://www.youtube.com/watch?v=WgliN_9j91g)
+
+[Debugging Code Generation in Go - Jaana Dogan - GopherCon 2020](https://www.youtube.com/watch?v=qPIB3STWXVk)
+
+[Tracing Go Programs with eBPF! - Grant Seltzer Richman - GopherCon 2020](https://www.youtube.com/watch?v=OxLmd7szevI)
+
+[Working with Errors - Jonathan Amsterdam - GopherCon 2020](https://www.youtube.com/watch?v=IKoSsJFdRtI)
+
+[Functional Programming with Go - Dylan Meeus - GopherCon 2020](https://www.youtube.com/watch?v=wqs8n5Uk5OM)
+
+[How to Write a Self-Hosted Go Compiler from Scratch - Daisuke Kashiwagi - Gophercon 2020](https://www.youtube.com/watch?v=1-gDvv54ojM)
+
 #### 2019
 
 &#x1F34E; [Death by 3,000 Timers: Streaming Video-on-Demand for Cable TV - Chris Hines - GopherCon 2019](https://www.youtube.com/watch?v=h0s8CWpIKdg)

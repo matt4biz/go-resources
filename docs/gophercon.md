@@ -1,5 +1,7 @@
 # Gophercon
 
+Please look under [Videos](videos.md) for more stuff; I won't keep this separate list going.
+
 2019  
 [Death by 3,000 Timers](https://www.youtube.com/watch?v=h0s8CWpIKdg), [Dynamically Instrumenting Go Programs](https://www.youtube.com/watch?v=de9cVAx6REA) and [more](https://github.com/gophercon/2019-talks)
 

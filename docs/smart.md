@@ -38,6 +38,8 @@
 
 #### Kevlin Henney
 
+[C++ on Sea 2019 - The Forgotten Art of Structured Programming](youtube.com/watch?v=SFv8Wm2HdNM)
+
 [GOTO 2018 - Don’t Walk Away from Complexity, Run - Venkat Subramaniam](https://www.youtube.com/watch?v=4MEKu2TcEHM)
 
 &#x1F34E; [Beauty in Code 2018, 4 of 7 - Kevlin Henney “1968”](https://www.youtube.com/watch?v=KjgvffBlWAg)
@@ -46,7 +48,7 @@
 
 [Kevlin Henney - The Architecture of Uncertainty (2013)](https://www.youtube.com/watch?v=TFQ3IaBCHrc)
 
-[Move Slow and Mend Things by Kevlin Henney](https://www.youtube.com/watch?v=1kklyq4XYpw)
+&#x1F34E; [Move Slow and Mend Things by Kevlin Henney](https://www.youtube.com/watch?v=1kklyq4XYpw)
 
 [Agility \(\neq\) Speed - Kevlin Henney](https://www.youtube.com/watch?v=kmFcNyZrUNM)
 
