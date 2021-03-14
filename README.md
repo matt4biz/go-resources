@@ -2,7 +2,7 @@
 
 This is a list of books, articles, videos, and other resources about learning Go along with some related topics.
 
-You can find my online Go class at this [playlist](https://www.youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6); subscribe to the channel for updates!
+You can find **my online Go class** at this [playlist](https://www.youtube.com/playlist?list=PLoILbKo9rG3skRCj37Kn5Zj803hhiuRK6); subscribe to the channel for updates!
 
 Although a few tools or frameworks are mentioned, this site is particularly oriented towards tutorials or articles to improve one's knowledge of Go or software development, particularly development for the cloud.
 
