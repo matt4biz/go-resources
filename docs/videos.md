@@ -308,6 +308,8 @@
 
 [Opening Keynote - Bill Kennedy - GopherCon India 2019](https://www.youtube.com/watch?v=AHAf1Xfr_HE)
 
+&#x1F34E; [Practical Understanding Of Scheduler Semantics - Bill Kennedy - Golang NYC 2021](https://www.youtube.com/watch?v=p2Cjq3Dq2Q0)
+
 &#x1F34E; [Profiling & Optimizing in Go - Brad Fitzpatrick - YAPC::Asia 2015](https://www.youtube.com/watch?v=xxDZuPEgbBU)
 
 &#x1F34E; [State of Go 2020: changes since Go 1.12 - Francesc Campoy & Maartje Eyskens - FOSDEM 2020](https://www.youtube.com/watch?v=0c-1KJwSMCw)

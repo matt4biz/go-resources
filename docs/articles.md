@@ -22,9 +22,13 @@
 
 [Cloud Functions in Go](https://medium.com/yakka/cloud-functions-in-go-94c1014a6fe4)
 
+[Context and structs](https://blog.golang.org/context-and-structs)
+
 [Context keys in Go](https://medium.com/@matryer/context-keys-in-go-5312346a868d) (dealing with the golint error "should not use basic type string as key in context.WithValue")
 
 [Continuous Profiling of Go programs](https://medium.com/google-cloud/continuous-profiling-of-go-programs-96d4416af77b)
+
+[Creating a Self Contained Blog Server with Go 1.16](https://www.brian.dev/self-contained-blog-server-with-go-1-16/)
 
 [Custom struct field tags and validate in Golang](https://medium.com/swlh/custom-struct-field-tags-and-validation-in-golang-9a7aeedcdc5b)
 
@@ -33,6 +37,8 @@ Dave Cheney’s [Clear is better than clever](https://dave.cheney.net/paste/clea
 [Doing Well by Doing Bad: Writing Bad Code with Go Part 1](https://medium.com/capital-one-tech/doing-well-by-doing-bad-writing-bad-code-with-go-part-1-2dbb96ce079a) and [Part 2](https://medium.com/capital-one-tech/doing-well-by-doing-bad-writing-bad-code-with-go-part-2-e270d305c9f7)
 
 &#x1F34E; [Fifty Shades of Go](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/index.html)
+
+[Finding Evil Go Packages](https://michenriksen.com/blog/finding-evil-go-packages/)
 
 [Garbage Collection In Go : Part I](https://www.ardanlabs.com/blog/2018/12/garbage-collection-in-go-part1-semantics.html), [Part II](https://www.ardanlabs.com/blog/2019/05/garbage-collection-in-go-part2-gctraces.html) and [Part III](https://www.ardanlabs.com/blog/2019/07/garbage-collection-in-go-part3-gcpacing.html)
 
@@ -76,6 +82,8 @@ Dave Cheney’s [Clear is better than clever](https://dave.cheney.net/paste/clea
 
 [How a Go Program Compiles down to Machine Code](https://hackernoon.com/how-a-go-program-compiles-down-to-machine-code-e4532dc8b8ca)
 
+[How Buffer Pool Works: An Implementation In Go](https://brunocalza.me/how-buffer-pool-works-an-implementation-in-go/)
+
 [How I Build Robust, Scalable Go Applications](https://medium.com/better-programming/how-i-build-robust-scalable-go-applications-192a0df32d1)
 
 [How I investigated memory leaks in Go using pprof on a large codebase](https://medium.com/free-code-camp/how-i-investigated-memory-leaks-in-go-using-pprof-on-a-large-codebase-4bec4325e192)
@@ -94,7 +102,11 @@ Dave Cheney’s [Clear is better than clever](https://dave.cheney.net/paste/clea
 
 [Java to Go in-depth tutorial](https://yourbasic.org/golang/go-java-tutorial/)
 
+[Keeping Covid-19 in check with ORY Dockertest](https://www.ory.sh/dockertest-gaen-google-apple-exposure-notification-covid-19/)
+
 [Less is exponentially more](https://commandcenter.blogspot.com/2012/06/less-is-exponentially-more.html)
+
+[Life of an HTTP request in a Go server](https://eli.thegreenplace.net/2021/life-of-an-http-request-in-a-go-server/)
 
 [Making The Move from Scala to Go, and Why We’re Not Going Back](https://movio.co/blog/migrate-Scala-to-Go/)
 
@@ -104,11 +116,15 @@ Dave Cheney’s [Clear is better than clever](https://dave.cheney.net/paste/clea
 
 [Moving a team from Scala to Go](http://jimplush.com/talk/2015/12/19/moving-a-team-from-scala-to-golang/)
 
+[Preventing SQL injections in Go (and other vulnerabilities)](https://blog.sqreen.com/preventing-sql-injections-in-go-and-other-vulnerabilities/)
+
 [Profiling & Optimizing in Go](https://github.com/bradfitz/talk-yapc-asia-2015)
 
 [Profiling Go programs](https://blog.golang.org/profiling-go-programs)
 
 &#x1F34E; [Rate Limiting in Go](https://medium.com/@justin.graber/rate-limiting-in-golang-f3ed2c62df36)
+
+[REST Servers in Go](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/)
 
 [Regex Tester - Golang](https://regex-golang.appspot.com/assets/html/index.html)
 
@@ -128,6 +144,8 @@ Dave Cheney’s [Clear is better than clever](https://dave.cheney.net/paste/clea
 
 [Style guideline for Go packages](https://rakyll.org/style-packages/)
 
+[Switching from C# to Go for backend development](https://aluma.io/resources/blog/switching-from-c-to-go-for-backend-development)
+
 [Testing: How, What, and Why](https://dave.cheney.net/paste/gopherchina-2019-testing-talk.pdf)
 
 [The Ideas That Shaped Go](https://medium.com/@dgryski/the-ideas-that-shaped-go-21850a74295f)
@@ -140,11 +158,15 @@ Dave Cheney’s [Clear is better than clever](https://dave.cheney.net/paste/clea
 
 [Understanding the context package](https://medium.com/rungo/understanding-the-context-package-b2e407a9cdae)
 
+&#x1F34E; [Understanding Pointers in Go](https://www.digitalocean.com/community/conceptual_articles/understanding-pointers-in-go)
+
 [Unit Testing for REST APIs in Go](https://codeburst.io/unit-testing-for-rest-apis-in-go-86c70dada52d)
 
 [Unit Testing made easy in Go](https://medium.com/rungo/unit-testing-made-easy-in-go-25077669318)
 
 [Very basic concurrency for beginners in Go](https://medium.com/@matryer/very-basic-concurrency-for-beginners-in-go-663e63c6ba07)
+
+[Why I Built Litestream](https://litestream.io/blog/why-i-built-litestream/)
 
 [Why You Should Be Using errgroup.WithContext() in Your Golang Server Handlers](https://bionic.fullstory.com/why-you-should-be-using-errgroup-withcontext-in-golang-server-handlers)
 

@@ -8,6 +8,8 @@ Although a few tools or frameworks are mentioned, this site is particularly orie
 
 If you're looking for links to software, [Awesome Go](https://github.com/avelino/awesome-go/) is a site primarily oriented toward Go projects with some information on conventions and tutorials also. Also, see [this repo](https://github.com/tmrts/go-patterns) for Go patterns, recipes, and idioms.
 
+Inanc Gumus has [a repo](https://github.com/inancgumus/learngo) of exercises from his class that you should check out.
+
 
 ## Contents
 

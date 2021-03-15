@@ -48,6 +48,7 @@
 <span>*Advent of Go Microservices,*</span> Petric, 2020, [(leanpub)](https://leanpub.com/go-microservices)
 
 ## Some books on cloud development
+[Bootstrapping Microservices with Docker, Kubernetes, and Terraform](https://www.amazon.com/Bootstrapping-Microservices-Docker-Kubernetes-Terraform/dp/1617297216)
 
 [Building Event-Driven Microservices](https://www.amazon.com/Building-Event-Driven-Microservices-Leveraging-Organizational/dp/1492057894)
 
@@ -62,6 +63,8 @@
 [Cloud Native DevOps with Kubernetes](https://www.amazon.com/Cloud-Native-DevOps-Kubernetes-Applications/dp/1492040762)
 
 [Container Security](https://www.amazon.com/Container-Security-Fundamental-Containerized-Applications/dp/1492056707)
+
+[Database Internals: A Deep Dive into How Distributed Data Systems Work](https://www.amazon.com/Database-Internals-Deep-Distributed-Systems/dp/1492040347)
 
 [Database Reliability Engineering](https://www.amazon.com/Database-Reliability-Engineering-Designing-Operating/dp/1491925949)
 
