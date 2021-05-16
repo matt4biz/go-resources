@@ -25,6 +25,7 @@
 [The Learn Go Programming blog on Medium](https://blog.learngoprogramming.com) starting with [Why Go?](https://blog.learngoprogramming.com/about-go-language-an-overview-f0bee143597c)
 
 [Go by Example](https://gobyexample.com/)
+
 [Why Go?](https://dave.cheney.net/2017/03/20/why-go)
 
 [Why Go? — Key advantages you may have overlooked](https://yourbasic.org/golang/advantages-over-java-python)
