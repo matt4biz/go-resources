@@ -32,7 +32,7 @@
 
 [Custom struct field tags and validate in Golang](https://medium.com/swlh/custom-struct-field-tags-and-validation-in-golang-9a7aeedcdc5b)
 
-Dave Cheney’s [Clear is better than clever](https://dave.cheney.net/paste/clear-is-better-than-clever.pdf) and &#x1F34E; [Practical Go](https://dave.cheney.net/practical-go/presentations/qcon-china.html) [this is a must-read!] and [High Performance Go Workshop](https://dave.cheney.net/high-performance-go-workshop/gopherchina-2019.html) and &#x1F34E; [The Zen of Go](https://dave.cheney.net/2020/02/23/the-zen-of-go.html)
+Dave Cheney’s [Clear is better than clever](https://dave.cheney.net/paste/clear-is-better-than-clever.pdf) and &#x1F34E; [Practical Go](https://dave.cheney.net/practical-go/presentations/qcon-china.html) [this is a must-read!] and [High Performance Go Workshop](https://dave.cheney.net/high-performance-go-workshop/gopherchina-2019.html) and &#x1F34E; [The Zen of Go](https://dave.cheney.net/2020/02/23/the-zen-of-go)
 
 [Doing Well by Doing Bad: Writing Bad Code with Go Part 1](https://medium.com/capital-one-tech/doing-well-by-doing-bad-writing-bad-code-with-go-part-1-2dbb96ce079a) and [Part 2](https://medium.com/capital-one-tech/doing-well-by-doing-bad-writing-bad-code-with-go-part-2-e270d305c9f7)
 
