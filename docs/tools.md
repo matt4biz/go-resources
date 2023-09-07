@@ -24,3 +24,5 @@ A lot more info on tools & frameworks may be found at
 [Reshaping JSON with jq](https://programminghistorian.org/en/lessons/json-and-jq)
 
 [jq](https://stedolan.github.io/jq) (install with Homebrew) and the [jq playground](https://jqplay.org/)
+
+[json2go.com](https://json2go.com) - A web tool for converting JSON to Go structs.
