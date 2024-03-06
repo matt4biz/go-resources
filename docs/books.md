@@ -47,6 +47,8 @@
 
 <span>*Advent of Go Microservices,*</span> Petric, 2020, [(leanpub)](https://leanpub.com/go-microservices)
 
+<span>*Go in Practice, Second Edition,*</span> Kozyra, Manning Publications, 2024, [9781633436886](https://www.manning.com/books/go-in-practice-second-edition)
+
 ## Some books on cloud development
 [Bootstrapping Microservices with Docker, Kubernetes, and Terraform](https://www.amazon.com/Bootstrapping-Microservices-Docker-Kubernetes-Terraform/dp/1617297216)
 
