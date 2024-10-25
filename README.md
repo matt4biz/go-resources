@@ -31,4 +31,4 @@ Inanc Gumus has [a repo](https://github.com/inancgumus/learngo) of exercises fro
 
 You're welcome to suggesting additions by submitting a pull request.
 
-Items to be added must be publically accessible (i.e., a link to a website or online video) and be related to the general purpose of this collection.
+Items to be added must be publicly accessible (i.e., a link to a website or online video) and be related to the general purpose of this collection.
